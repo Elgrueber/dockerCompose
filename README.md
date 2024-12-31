@@ -57,7 +57,7 @@ Task 5.
 Ответ на вопрос: по умолчанию docker compose ищет файл docker-compoe.yaml. Поэтому он и запускается. 
 
 3:
-![image](https://github.com/user-attachments/assets/3427301d-d5d0-4793-a020-42db2ae740c8)
+![image](https://github.com/user-attachments/assets/b4013173-0db0-4fec-ae42-82d5aa49b752)
 ![image](https://github.com/user-attachments/assets/1ff9e199-ebe6-4a73-85c4-fd9ec09b421c)
 ![image](https://github.com/user-attachments/assets/6db5b19c-22b3-4e28-bdb8-4bac3b9ee85a)
 ![image](https://github.com/user-attachments/assets/16abffac-1407-4b17-8494-47e05e0a5379)
