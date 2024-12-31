@@ -45,7 +45,34 @@ Task 4.
 3,4:
 <img width="556" alt="image" src="https://github.com/user-attachments/assets/b7d4c9b8-a9a7-4b20-a5c0-f7664bc39b37" />
 5:
+
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/eefa555f-85c6-482b-9574-4cd926566224" />
 
 Task 5.
+1,2:
+![image](https://github.com/user-attachments/assets/5551b363-b2c6-4f5f-bf86-3435187b24ce)
+![image](https://github.com/user-attachments/assets/478d2e13-6a48-4c02-83a8-515c0740fdf8)
+![image](https://github.com/user-attachments/assets/ff52acf4-16e2-4003-846f-fad38be1c402)
+![image](https://github.com/user-attachments/assets/f3c1b048-2de3-4fbf-87a8-86687d46a692)
+Ответ на вопрос: по умолчанию docker compose ищет файл docker-compoe.yaml. Поэтому он и запускается. 
+
+3:
+![image](https://github.com/user-attachments/assets/3427301d-d5d0-4793-a020-42db2ae740c8)
+![image](https://github.com/user-attachments/assets/1ff9e199-ebe6-4a73-85c4-fd9ec09b421c)
+![image](https://github.com/user-attachments/assets/6db5b19c-22b3-4e28-bdb8-4bac3b9ee85a)
+![image](https://github.com/user-attachments/assets/16abffac-1407-4b17-8494-47e05e0a5379)
+
+4,5,6:
+![image](https://github.com/user-attachments/assets/cb22a2eb-7317-40c8-a556-f25a90a651c2)
+
+7:
+![image](https://github.com/user-attachments/assets/da523426-3f27-4bbe-877a-63d4bc01cc13)
+Warning - так как в файле используется устаревший атрибут version, который не применяется в текущих версиях Docker Compose. Лучше удалить, чтобы не было возможной путаницы в будущем. Далее удалила из файла. 
+![image](https://github.com/user-attachments/assets/10fded3d-9afc-42ca-a4ba-d1d77c1f1a95)
+![image](https://github.com/user-attachments/assets/8e3636ef-c7f3-44b1-bfae-ae596f759bfd)
+
+
+
+
+
 
